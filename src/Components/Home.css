@@ -1,0 +1,17 @@
+
+#container{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    border:1px solid black;
+}
+.container1{
+    padding:10%;
+    border:1px solid black;
+
+}
+img{
+    width:100%
+}
+p{
+    color:rgb(159, 157, 154)
+}
